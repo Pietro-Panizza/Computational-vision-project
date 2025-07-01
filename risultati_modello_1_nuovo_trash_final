@@ -1,0 +1,252 @@
+sample for each class: 3 | classes for training: 10 | attached images: 1 | total accuracy: 0.8333333333333334 
+pred: 0 | True y: 1.0 | y pred prob: [39.10185]
+pred: 0 | True y: 1.0 | y pred prob: [87.30432]
+pred: 0 | True y: 1.0 | y pred prob: [69.64352]
+sample for each class: 3 | classes for training: 10 | attached images: 1 | total our accuracy: 0.75 
+our sample pred: 0 | real: 1 | distance : [25.598276] | 
+our sample pred: 0 | real: 1 | distance : [55.861416] | 
+our sample pred: 0 | real: 0 | distance : [54.36682] | 
+our sample pred: 0 | real: 0 | distance : [106.856285] | 
+our sample pred: 0 | real: 0 | distance : [55.861416] | 
+our sample pred: 0 | real: 0 | distance : [55.861416] | 
+our sample pred: 0 | real: 0 | distance : [29.720755] | 
+our sample pred: 0 | real: 0 | distance : [83.85346] | 
+--------------------------------------------------
+sample for each class: 3 | classes for training: 10 | attached images: 2 | total accuracy: 0.16666666666666666 
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [1.3896773]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+sample for each class: 3 | classes for training: 10 | attached images: 2 | total our accuracy: 0.625 
+our sample pred: 0 | real: 1 | distance : [21.835747] | 
+our sample pred: 1 | real: 1 | distance : [4.6022816] | 
+our sample pred: 0 | real: 0 | distance : [28.950474] | 
+our sample pred: 0 | real: 0 | distance : [31.764423] | 
+our sample pred: 1 | real: 0 | distance : [4.6022816] | 
+our sample pred: 1 | real: 0 | distance : [4.6022816] | 
+our sample pred: 0 | real: 0 | distance : [7.8489776] | 
+our sample pred: 0 | real: 0 | distance : [11.2206335] | 
+--------------------------------------------------
+sample for each class: 3 | classes for training: 10 | attached images: 3 | total accuracy: 0.38 
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 0 | True y: 1.0 | y pred prob: [6.4620275]
+sample for each class: 3 | classes for training: 10 | attached images: 3 | total our accuracy: 0.75 
+our sample pred: 0 | real: 1 | distance : [19.773968] | 
+our sample pred: 0 | real: 1 | distance : [17.796389] | 
+our sample pred: 0 | real: 0 | distance : [11.294901] | 
+our sample pred: 0 | real: 0 | distance : [28.230719] | 
+our sample pred: 0 | real: 0 | distance : [17.796389] | 
+our sample pred: 0 | real: 0 | distance : [17.796389] | 
+our sample pred: 0 | real: 0 | distance : [9.092631] | 
+our sample pred: 0 | real: 0 | distance : [8.968306] | 
+--------------------------------------------------
+sample for each class: 6 | classes for training: 10 | attached images: 1 | total accuracy: 0.76 
+pred: 0 | True y: 1.0 | y pred prob: [5.0541816]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 0 | True y: 1.0 | y pred prob: [20.88075]
+sample for each class: 6 | classes for training: 10 | attached images: 1 | total our accuracy: 0.75 
+our sample pred: 0 | real: 1 | distance : [57.682247] | 
+our sample pred: 0 | real: 1 | distance : [123.42334] | 
+our sample pred: 0 | real: 0 | distance : [60.93615] | 
+our sample pred: 0 | real: 0 | distance : [178.82666] | 
+our sample pred: 0 | real: 0 | distance : [123.42334] | 
+our sample pred: 0 | real: 0 | distance : [123.42334] | 
+our sample pred: 0 | real: 0 | distance : [22.101534] | 
+our sample pred: 0 | real: 0 | distance : [124.61773] | 
+--------------------------------------------------
+sample for each class: 6 | classes for training: 10 | attached images: 2 | total accuracy: 0.8666666666666667 
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+sample for each class: 6 | classes for training: 10 | attached images: 2 | total our accuracy: 0.75 
+our sample pred: 0 | real: 1 | distance : [212.6565] | 
+our sample pred: 0 | real: 1 | distance : [24.396282] | 
+our sample pred: 0 | real: 0 | distance : [212.64214] | 
+our sample pred: 0 | real: 0 | distance : [217.11305] | 
+our sample pred: 0 | real: 0 | distance : [24.396282] | 
+our sample pred: 0 | real: 0 | distance : [24.396282] | 
+our sample pred: 0 | real: 0 | distance : [20.170872] | 
+our sample pred: 0 | real: 0 | distance : [25.640245] | 
+--------------------------------------------------
+sample for each class: 6 | classes for training: 10 | attached images: 3 | total accuracy: 0.5033333333333333 
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+sample for each class: 6 | classes for training: 10 | attached images: 3 | total our accuracy: 0.25 
+our sample pred: 1 | real: 1 | distance : [0.] | 
+our sample pred: 1 | real: 1 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+--------------------------------------------------
+sample for each class: 3 | classes for training: 20 | attached images: 1 | total accuracy: 0.16666666666666666 
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+sample for each class: 3 | classes for training: 20 | attached images: 1 | total our accuracy: 0.75 
+our sample pred: 0 | real: 1 | distance : [13.6393385] | 
+our sample pred: 0 | real: 1 | distance : [15.860646] | 
+our sample pred: 0 | real: 0 | distance : [11.366991] | 
+our sample pred: 0 | real: 0 | distance : [7.770924] | 
+our sample pred: 0 | real: 0 | distance : [15.860646] | 
+our sample pred: 0 | real: 0 | distance : [15.860646] | 
+our sample pred: 0 | real: 0 | distance : [11.480694] | 
+our sample pred: 0 | real: 0 | distance : [13.728769] | 
+--------------------------------------------------
+sample for each class: 3 | classes for training: 20 | attached images: 2 | total accuracy: 0.27666666666666667 
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+sample for each class: 3 | classes for training: 20 | attached images: 2 | total our accuracy: 0.75 
+our sample pred: 0 | real: 1 | distance : [176.23686] | 
+our sample pred: 0 | real: 1 | distance : [31.79106] | 
+our sample pred: 0 | real: 0 | distance : [192.67561] | 
+our sample pred: 0 | real: 0 | distance : [218.04137] | 
+our sample pred: 0 | real: 0 | distance : [31.79106] | 
+our sample pred: 0 | real: 0 | distance : [31.79106] | 
+our sample pred: 0 | real: 0 | distance : [26.105465] | 
+our sample pred: 0 | real: 0 | distance : [47.659874] | 
+--------------------------------------------------
+sample for each class: 3 | classes for training: 20 | attached images: 3 | total accuracy: 0.16666666666666666 
+pred: 1 | True y: 1.0 | y pred prob: [0.72191966]
+pred: 1 | True y: 1.0 | y pred prob: [0.59982705]
+pred: 1 | True y: 1.0 | y pred prob: [0.72191966]
+sample for each class: 3 | classes for training: 20 | attached images: 3 | total our accuracy: 0.25 
+our sample pred: 1 | real: 1 | distance : [0.] | 
+our sample pred: 1 | real: 1 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+--------------------------------------------------
+sample for each class: 6 | classes for training: 20 | attached images: 1 | total accuracy: 0.27666666666666667 
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+sample for each class: 6 | classes for training: 20 | attached images: 1 | total our accuracy: 0.75 
+our sample pred: 0 | real: 1 | distance : [95.975266] | 
+our sample pred: 0 | real: 1 | distance : [61.536827] | 
+our sample pred: 0 | real: 0 | distance : [80.53955] | 
+our sample pred: 0 | real: 0 | distance : [139.10419] | 
+our sample pred: 0 | real: 0 | distance : [61.536827] | 
+our sample pred: 0 | real: 0 | distance : [61.536827] | 
+our sample pred: 0 | real: 0 | distance : [20.576353] | 
+our sample pred: 0 | real: 0 | distance : [43.708317] | 
+--------------------------------------------------
+sample for each class: 6 | classes for training: 20 | attached images: 2 | total accuracy: 0.32 
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+sample for each class: 6 | classes for training: 20 | attached images: 2 | total our accuracy: 0.75 
+our sample pred: 0 | real: 1 | distance : [8.949155] | 
+our sample pred: 0 | real: 1 | distance : [13.581118] | 
+our sample pred: 0 | real: 0 | distance : [11.9533205] | 
+our sample pred: 0 | real: 0 | distance : [6.536689] | 
+our sample pred: 0 | real: 0 | distance : [13.581118] | 
+our sample pred: 0 | real: 0 | distance : [13.581118] | 
+our sample pred: 0 | real: 0 | distance : [6.6683407] | 
+our sample pred: 0 | real: 0 | distance : [7.8241787] | 
+--------------------------------------------------
+sample for each class: 6 | classes for training: 20 | attached images: 3 | total accuracy: 0.62 
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+sample for each class: 6 | classes for training: 20 | attached images: 3 | total our accuracy: 0.75 
+our sample pred: 0 | real: 1 | distance : [107.602] | 
+our sample pred: 0 | real: 1 | distance : [190.07246] | 
+our sample pred: 0 | real: 0 | distance : [237.5876] | 
+our sample pred: 0 | real: 0 | distance : [415.36487] | 
+our sample pred: 0 | real: 0 | distance : [190.07246] | 
+our sample pred: 0 | real: 0 | distance : [190.07246] | 
+our sample pred: 0 | real: 0 | distance : [150.41869] | 
+our sample pred: 0 | real: 0 | distance : [329.7859] | 
+--------------------------------------------------
+sample for each class: 3 | classes for training: 30 | attached images: 1 | total accuracy: 0.16666666666666666 
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+sample for each class: 3 | classes for training: 30 | attached images: 1 | total our accuracy: 0.25 
+our sample pred: 1 | real: 1 | distance : [0.] | 
+our sample pred: 1 | real: 1 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+our sample pred: 1 | real: 0 | distance : [0.] | 
+--------------------------------------------------
+sample for each class: 3 | classes for training: 30 | attached images: 2 | total accuracy: 0.16666666666666666 
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+sample for each class: 3 | classes for training: 30 | attached images: 2 | total our accuracy: 0.75 
+our sample pred: 0 | real: 1 | distance : [91.05288] | 
+our sample pred: 0 | real: 1 | distance : [104.46818] | 
+our sample pred: 0 | real: 0 | distance : [105.44837] | 
+our sample pred: 0 | real: 0 | distance : [115.96061] | 
+our sample pred: 0 | real: 0 | distance : [104.46818] | 
+our sample pred: 0 | real: 0 | distance : [104.46818] | 
+our sample pred: 0 | real: 0 | distance : [23.709103] | 
+our sample pred: 0 | real: 0 | distance : [102.06238] | 
+--------------------------------------------------
+sample for each class: 3 | classes for training: 30 | attached images: 3 | total accuracy: 0.16666666666666666 
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+sample for each class: 3 | classes for training: 30 | attached images: 3 | total our accuracy: 0.375 
+our sample pred: 0 | real: 1 | distance : [50.165947] | 
+our sample pred: 1 | real: 1 | distance : [1.8079786] | 
+our sample pred: 0 | real: 0 | distance : [52.333103] | 
+our sample pred: 0 | real: 0 | distance : [51.63067] | 
+our sample pred: 1 | real: 0 | distance : [1.8079786] | 
+our sample pred: 1 | real: 0 | distance : [1.8079786] | 
+our sample pred: 1 | real: 0 | distance : [2.9586735] | 
+our sample pred: 1 | real: 0 | distance : [2.0080888] | 
+--------------------------------------------------
+sample for each class: 6 | classes for training: 30 | attached images: 1 | total accuracy: 0.68 
+pred: 0 | True y: 1.0 | y pred prob: [102.623245]
+pred: 0 | True y: 1.0 | y pred prob: [26.375965]
+pred: 0 | True y: 1.0 | y pred prob: [26.375965]
+sample for each class: 6 | classes for training: 30 | attached images: 1 | total our accuracy: 0.75 
+our sample pred: 0 | real: 1 | distance : [115.2045] | 
+our sample pred: 0 | real: 1 | distance : [72.828186] | 
+our sample pred: 0 | real: 0 | distance : [121.92702] | 
+our sample pred: 0 | real: 0 | distance : [176.16618] | 
+our sample pred: 0 | real: 0 | distance : [72.828186] | 
+our sample pred: 0 | real: 0 | distance : [72.828186] | 
+our sample pred: 0 | real: 0 | distance : [17.039553] | 
+our sample pred: 0 | real: 0 | distance : [70.13732] | 
+--------------------------------------------------
+sample for each class: 6 | classes for training: 30 | attached images: 2 | total accuracy: 0.16666666666666666 
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+sample for each class: 6 | classes for training: 30 | attached images: 2 | total our accuracy: 0.25 
+our sample pred: 1 | real: 1 | distance : [2.4744885] | 
+our sample pred: 1 | real: 1 | distance : [2.3834743] | 
+our sample pred: 1 | real: 0 | distance : [2.6821394] | 
+our sample pred: 1 | real: 0 | distance : [4.673509] | 
+our sample pred: 1 | real: 0 | distance : [2.3834743] | 
+our sample pred: 1 | real: 0 | distance : [2.3834743] | 
+our sample pred: 1 | real: 0 | distance : [0.85625964] | 
+our sample pred: 1 | real: 0 | distance : [2.8403122] | 
+--------------------------------------------------
+sample for each class: 6 | classes for training: 30 | attached images: 3 | total accuracy: 0.27 
+pred: 0 | True y: 1.0 | y pred prob: [30.7937]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+pred: 1 | True y: 1.0 | y pred prob: [0.]
+sample for each class: 6 | classes for training: 30 | attached images: 3 | total our accuracy: 0.75 
+our sample pred: 0 | real: 1 | distance : [191.90132] | 
+our sample pred: 0 | real: 1 | distance : [108.8377] | 
+our sample pred: 0 | real: 0 | distance : [284.46686] | 
+our sample pred: 0 | real: 0 | distance : [382.98215] | 
+our sample pred: 0 | real: 0 | distance : [108.8377] | 
+our sample pred: 0 | real: 0 | distance : [108.8377] | 
+our sample pred: 0 | real: 0 | distance : [124.307686] | 
+our sample pred: 0 | real: 0 | distance : [218.99657] | 
+--------------------------------------------------
